@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UCP2</string>
+    <string name="next">Next</string>
+    <string name="nama">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="fokus">konsentrasi</string>
+    <string name="judul">Judul Skripsi</string>
+    <string name="dsn1">Pak Haris</string>
+    <string name="dsn2">Pak Joko</string>
+    <string name="dsn3">Bu April</string>
+    <string name="submit">Submit</string>
+    <string name="back">Back</string>
+</resources>
